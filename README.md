@@ -1,7 +1,7 @@
 # BLE
 ## To find the Characteristic of a BLE device
 
-**Install pygatt for python3**
+**Install pygatt for python**
 
 ```sudo apt-get isntall python-pip```
 
