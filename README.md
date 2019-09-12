@@ -3,9 +3,9 @@
 
 **Install pygatt for python3**
 
-```sudo apt-get install python3-pip```
+```sudo apt-get isntall python-pip```
 
-```sudo pip3 install pygatt```
+```sudo pip install pygatt```
 
 ## **USAGE**
 Use Bluehydra or hcitool to scan your target BLE device and copy the BD_ADDR of the target device. Then run the programm as we usually run python3
